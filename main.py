@@ -11,9 +11,9 @@ def load_questions_from_json(file_path: str):
         data = json.load(f)
     return [
         Question(
-            text=item["text"],
-            language=item["language"],
-            reference_answer=item["reference answer"]
+            text=item["question"],
+            language="ar",
+            reference_answer=item["answer"]
         )
         for item in data
     ]
@@ -23,5 +23,4 @@ def build_prompt(question: Question) -> str:
 
 def generate_answer(question: Question) -> str:
     prompt = build_prompt(question)
-    # Simulated model response for testing production pipeline
     return f"Response to: {question.text}"
