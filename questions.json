@@ -1,0 +1,202 @@
+[
+    {
+        "question": "ما هو المتوسط الحسابي للأعداد [2, 4, 6, 8]؟",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "5.5"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "ما هو الوسيط للأعداد [1, 3, 5, 7, 9]؟",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "4"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "ما هو المنوال للأعداد [2, 2, 3, 5, 7]؟",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "ما هو المدى للأعداد [4, 9, 1, 6]؟",
+        "options": [
+            "5",
+            "8",
+            "9",
+            "3"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "ما هو التباين لقيمة ثابتة؟",
+        "options": [
+            "0",
+            "1",
+            "ما لا نهاية",
+            "غير معرف"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "ما هو مجموع الاحتمالات لجميع النواتج الممكنة في توزيع احتمالي؟",
+        "options": [
+            "0",
+            "0.5",
+            "1",
+            "100"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "إذا كان الانحراف المعياري يساوي 4، فكم يبلغ التباين؟",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "answer": "16"
+    },
+    {
+        "question": "ما هو المعامل الذي يقيس قوة واتجاه العلاقة الخطية بين متغيرين؟",
+        "options": [
+            "معامل ارتباط بيرسون",
+            "التباين",
+            "الوسيط",
+            "المنوال"
+        ],
+        "answer": "معامل ارتباط بيرسون"
+    },
+    {
+        "question": "في التوزيع الطبيعي المعياري، كم تبلغ قيمة الوسط الحسابي (Mean)؟",
+        "options": [
+            "0",
+            "1",
+            "10",
+            "100"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "ما هو المقياس الإحصائي الذي يتأثر بالقيم المتطرفة بشكل كبير؟",
+        "options": [
+            "المتوسط الحسابي",
+            "الوسيط",
+            "المنوال",
+            "المدى الربعي"
+        ],
+        "answer": "المتوسط الحسابي"
+    },
+    {
+        "question": "What is the mean of [2, 4, 6, 8]?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "5.5"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "What is the median of [1, 3, 5, 7, 9]?",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "4"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "What is the mode of [2, 2, 3, 5, 7]?",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the range of [4, 9, 1, 6]?",
+        "options": [
+            "5",
+            "8",
+            "9",
+            "3"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "What is the variance of a constant value?",
+        "options": [
+            "0",
+            "1",
+            "Infinity",
+            "Undefined"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "What is the sum of all probabilities in a probability distribution?",
+        "options": [
+            "0",
+            "0.5",
+            "1",
+            "100"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "If the standard deviation is 4, what is the variance?",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "answer": "16"
+    },
+    {
+        "question": "Which coefficient measures the strength and direction of a linear relationship?",
+        "options": [
+            "Pearson correlation",
+            "Variance",
+            "Median",
+            "Mode"
+        ],
+        "answer": "Pearson correlation"
+    },
+    {
+        "question": "In a standard normal distribution, what is the value of the mean?",
+        "options": [
+            "0",
+            "1",
+            "10",
+            "100"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "Which statistical measure is heavily affected by outliers?",
+        "options": [
+            "Mean",
+            "Median",
+            "Mode",
+            "Interquartile range"
+        ],
+        "answer": "Mean"
+    }
+]
